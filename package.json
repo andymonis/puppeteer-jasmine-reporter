@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer-jasmine-reporter",
+  "version": "1.0.0",
+  "description": "A Puppeteer reporter plugin for JasmineBDD, that outputs functional test results in JUnit xml format for inclusion in Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andymonis/puppeteer-jasmine-reporter.git"
+  },
+  "keywords": [
+    "Puppeteer",
+    "Reporter",
+    "Jasmine",
+    "Jenkins",
+    "JUnit"
+  ],
+  "author": "andy monis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andymonis/puppeteer-jasmine-reporter/issues"
+  },
+  "homepage": "https://github.com/andymonis/puppeteer-jasmine-reporter#readme"
+}
